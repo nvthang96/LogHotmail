@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLWnelw+kIwMzB2PEeGol6zMbpPk0L/FLdazaZnFJDhvoyvqdIelAOPWkgBAYnxy+Dy6kwshy3gIpqPS7yiSzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\source\\repos\\hotmail\\hotmail\\hotmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
